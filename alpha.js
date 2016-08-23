@@ -36,13 +36,8 @@ function alphaStacker(){
 			newAlpha += " " + alphabet[i];
 		} else {
 			newAlpha += alphabet[i]
-		}
-		
-		
+		}		
 		console.log(newAlpha)
-
-
-
 	}
 }
 alphaStacker()
